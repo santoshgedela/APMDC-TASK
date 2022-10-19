@@ -57,30 +57,124 @@ select option{
    margin-top: -10px;
 }
 .content{
-    padding-top: 150px;
-    padding-left: 100px;
+    padding-top: 100px;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-bottom: 100px;
     line-height: 3;
 }
 
+
 .content span{
-    position: relative;
+   
     top: -5px;
     left: 10px;
+    right: 10px;
 }
 .cards{
+    width: 100%;
     display: flex;
     justify-content: space-between;
+    /* margin: 50px; */
+    /* position: absolute; */
+    /* flex-direction: column; */
+align-items: center;
+gap: 28px;
+
+}
+.card{
+    
+
+padding: 25px 21px;
+width: 28%;
+    height: 350px;
+background: #E4F8CE;
+box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.25);
+border-radius: 6px;
 }
 .text{
-    padding: 50px 21px 50px 21px;
-    height: 200px;
-    width: 280px;
-    /* text-align: center; */
-    word-break: break-all;
+    width: 100%;
+height: 161px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+
+/* or 164% */
+
+text-align: justify;
+letter-spacing: 0.02em;
+text-transform: capitalize;
 }
 .card .text{
 background-color:#E4F8CE ;
 box-shadow: 2px darkgray;
-line-height: 1;
+line-height: 23px;
 
+}
+/* img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+} */
+p1{
+    padding-top: 20px;
+}
+.footer{
+    text-align: center;
+    background-color: #E4F8CE;
+    height: 360px;
+    display: flex;
+}
+.styles{
+    width: 23%;
+    /* float: left; */
+    line-height: 2;
+    text-align: left;
+    padding-left: 24px;
+    
+}
+ol{
+    list-style-type: none;
+
+}
+ol li:hover{
+    color: #70ad2e;;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.logos{
+    padding-top: 100px;
+    padding-left: 15%;
+    position: relative;
+    display: flex;
+    gap: 171px;
+    height: 80px;
+  
+}
+.logos img{
+    height: 90px;
+    width: 90px;
+}
+
+.logo{
+    width: 328px;
+}
+.footer2{
+    background: #242424;
+    height: 50px;
+    display: flex;
+    align-items: center;
+}
+.footer2 p{
+    color: white;
+   margin-left: 100px;
+}
+ol{
+    text-align: left;
+}
+h3{
+    padding-left: 30px;
 }
