@@ -9,10 +9,19 @@ ul{
     padding: 0 30px 0 30px;
     margin: 0;
 }
+ .li{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+ color : #000000;
+}
 body,h2,p{
     margin: 0;
     padding: 0;
 }
+
 .header2{
     display: flex;
     justify-content: space-between;
@@ -20,6 +29,7 @@ body,h2,p{
     padding: 0 100px 0 100px;
 }
 .text-head{
+   font-family: 'Montserrat';
    display: flex;
    align-items: center;
    text-align: center;
@@ -30,12 +40,12 @@ body,h2,p{
 }
 nav{
     background-color: #008CB6;
-    color: white;
     padding: 0 30px 0 30px;
+
 }
 .list{
     padding: 10px;
-
+    color:#ffffff;
 }
 .image img{
     width: 100%;
@@ -125,7 +135,7 @@ p1{
 .footer{
     text-align: center;
     background-color: #E4F8CE;
-    height: 360px;
+    
     display: flex;
 }
 .styles{
@@ -150,7 +160,7 @@ ol li:hover{
     padding-left: 15%;
     position: relative;
     display: flex;
-    gap: 171px;
+    gap: 11%;
     height: 80px;
   
 }
@@ -160,17 +170,17 @@ ol li:hover{
 }
 
 .logo{
-    width: 328px;
+    width: 30%;
 }
 .footer2{
     background: #242424;
-    height: 50px;
+    
     display: flex;
     align-items: center;
 }
 .footer2 p{
     color: white;
-   margin-left: 100px;
+    font-size: 15px;
 }
 ol{
     text-align: left;
