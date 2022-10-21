@@ -1,12 +1,17 @@
 # APMDC-TASK
 Link for my web page:
-https://santoshgedela.github.io/APMDC-TASK/
+https://santoshgedela.github.io/APMDC-TASK/,
 
-Task : APMDC Webpage
-IDE : Visual studio code
-Source control tool : Gighub
 
-step1:
+Task : APMDC Webpage,
+
+IDE : Visual studio code,
+
+Source control tool : Gighub,
+
+
+step1:,
+
      1. I created one file with .html extension to make it as html file(HTML5),
      
      2. I created one file with .css extension to make it as cascading style sheet(CSS3),
