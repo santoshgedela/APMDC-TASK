@@ -29,4 +29,3 @@ step2 :
                                                    
                                                    
                                                    to make the webpage responsive i use those css properties.
-I used html,css Technologies for this task.I have diveded 
