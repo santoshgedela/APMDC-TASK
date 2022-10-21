@@ -19,10 +19,14 @@ step1:,
      3. I created one folder called assets, in that i have uploaded few images which are used to desing my webpage.
 step2 : 
    1. I divided my web page into differenbt sections;
-   i have used most popular css properties like :
-                                                   display:flex
-                                                   justify-content : space-between
-                                                   flex-wrap:wrap
+   i have used most popular css properties like :,
+   
+                                                   display:flex,
+                                                   
+                                                   justify-content : space-between,
+                                                   
+                                                   flex-wrap:wrap,
+                                                   
                                                    
                                                    to make the webpage responsive i use those css properties.
 I used html,css Technologies for this task.I have diveded 
